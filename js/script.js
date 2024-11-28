@@ -35,6 +35,11 @@ $(document).ready(function(){
 		
 	});
 	
+	const callButton = document.getElementById('callButton');
+
+	setInterval(() => {
+		callButton.classList.toggle('blink');
+	}, 1000); // Her 1 saniyede bir yanıp sönecek
 
 	/* =================================
 	OWL

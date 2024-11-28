@@ -590,6 +590,34 @@ i, cite, em, var, address, dfn {
   background-position: center;
   background-repeat: no-repeat; }
 
+  .call-container{
+  position: fixed;
+  top: 200px;
+  right: 30px;
+z-index: 100000;
+}
+  .call-button {
+    width: 80px;
+    height: 80px;
+    background-color: #f0d402;
+    border: none;
+    border-radius: 50%;
+    color: white;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: opacity 0.5s;
+    text-decoration: none;
+}
+.call-button.blink {
+    opacity: .4;
+}
+.call-text{
+  color: #333;
+}
 .pos-relative {
   position: relative; }
 
@@ -1186,7 +1214,8 @@ textarea.form-control {
 .box-icon-2 {
   position: relative;
   margin-bottom: 20px;
-  text-align: center; }
+  text-align: center; 
+}
   .box-icon-2.process-arrow:after {
     content: '';
     width: 50px;
@@ -1204,7 +1233,7 @@ textarea.form-control {
     color: #333333;
     font-size: 60px;
     line-height: 1.4em;
-    background-color: #ffffff;
+    background-color: #ff0;
     border: 12px solid #e9f1ee;
     -webkit-box-shadow: 0 0 0 1px #dce5e1;
     box-shadow: 0 0 0 1px #dce5e1;
@@ -2639,7 +2668,7 @@ textarea.form-control {
   border: 0;
   -webkit-transition: padding .2s ease-in-out;
   transition: padding .2s ease-in-out;
-  background-color: #ffffff;
+  background-color: #ff0;
   padding-top: 0;
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
@@ -2647,7 +2676,8 @@ textarea.form-control {
   /* position: relative;
    z-index: 3;*/ }
   .navbar-main > .container {
-    position: relative; }
+    position: relative; 
+  }
   .navbar-main .navbar-brand {
     background-color: #ff0;
     padding: 5px;
@@ -2679,7 +2709,9 @@ textarea.form-control {
     padding-left: 0; }
   .navbar-main ol, .navbar-main li {
     margin: 0 0;
-    font-size: 18px; }
+    font-size: 18px;
+  
+  }
   .navbar-main .nav > li > a {
     color: #333333; }
   .navbar-main .nav > li.active > a,
@@ -3585,8 +3617,6 @@ dl.hiw {
   .box-partner .item .box-image {
     clear: left; }
 
-  display: block;
-  width: inherit;
   .box-partner .item .box-info {
     width: inherit;
     margin-left: 0; }
