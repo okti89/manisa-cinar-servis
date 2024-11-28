@@ -36,10 +36,11 @@ $(document).ready(function(){
 	});
 	
 	const callButton = document.getElementById('callButton');
+	const callContainer = document.getElementById('callContainer');
 
 	setInterval(() => {
-		callButton.classList.toggle('blink');
-	}, 1000); // Her 1 saniyede bir yanıp sönecek
+		callContainer.classList.toggle('blink');
+	}, 500); // Her 1 saniyede bir yanıp sönecek
 
 	/* =================================
 	OWL
