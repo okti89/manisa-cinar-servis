@@ -702,6 +702,10 @@ gap: 10px;
 
 }
 
+.navbar-brand h3, p{
+  color: #fff;
+}
+
 .call-button {
 
   color: white;
@@ -3545,7 +3549,7 @@ textarea.form-control {
 }
 
 .navbar-main .nav>li>a {
-  color: #333333;
+  color: #fff;
 }
 
 .navbar-main .nav>li.active>a,
@@ -4733,7 +4737,7 @@ dl.hiw dd h4, dl.hiw dd .lead {
   }
 
   .navbar-nav .open .dropdown-menu>li>a {
-    color: #999999;
+    color: #fff;
   }
 
   .bos-quote .bos-photo {
