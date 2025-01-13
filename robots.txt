@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://cinarservis.com.tr/sitemap.xml
+Disallow: /404page.html 
