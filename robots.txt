@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Allow: /bolgeler/
 Sitemap: https://cinarservis.com.tr/sitemap.xml
 Disallow: /404page.html 

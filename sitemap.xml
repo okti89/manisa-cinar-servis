@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- Ana Sayfalar -->
    <url>
       <loc>https://cinarservis.com.tr/</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>weekly</changefreq>
+      <changefreq>daily</changefreq>
       <priority>1.0</priority>
    </url>
+   <url>
+      <loc>https://cinarservis.com.tr/about.html</loc>
+      <lastmod>2024-03-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://cinarservis.com.tr/contact.html</loc>
+      <lastmod>2024-03-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Servis Sayfaları -->
    <url>
       <loc>https://cinarservis.com.tr/kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
@@ -13,132 +28,131 @@
       <priority>0.9</priority>
    </url>
    <url>
-      <loc>https://cinarservis.com.tr/beyaz-esya-servisi.html</loc>
+      <loc>https://cinarservis.com.tr/buzdolabi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
    </url>
-   <!-- Bölge sayfaları -->
+   <url>
+      <loc>https://cinarservis.com.tr/camasir-makinesi-servisi.html</loc>
+      <lastmod>2024-03-20</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>https://cinarservis.com.tr/bulasik-makinesi-servisi.html</loc>
+      <lastmod>2024-03-20</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>https://cinarservis.com.tr/kurutma-makinesi-servisi.html</loc>
+      <lastmod>2024-03-20</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <!-- Bölge Sayfaları -->
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/ahmetli-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/akhisar-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/alasehir-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/demirci-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/golmarmara-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/gordes-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/kirkagac-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/koprubasi-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/kula-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/salihli-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://cinarservis.com.tr/bolgeler/sarigol-kombi-servisi.html</loc>
+      <lastmod>2024-03-20</lastmod>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/saruhanli-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>https://cinarservis.com.tr/bolgeler/sehzadeler-kombi-servisi.html</loc>
-      <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/selendi-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://cinarservis.com.tr/bolgeler/sehzadeler-kombi-servisi.html</loc>
+      <lastmod>2024-03-20</lastmod>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/soma-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/turgutlu-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
       <loc>https://cinarservis.com.tr/bolgeler/yunusemre-kombi-servisi.html</loc>
       <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-  
-  
-   <url>
-      <loc>https://cinarservis.com.tr/buzdolabi-servisi.html</loc>
-      <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>https://cinarservis.com.tr/camasir-makinesi-servisi.html</loc>
-      <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>https://cinarservis.com.tr/bulasik-makinesi-servisi.html</loc>
-      <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>https://cinarservis.com.tr/kurutma-makinesi-servisi.html</loc>
-      <lastmod>2024-03-20</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
 </urlset> 
