@@ -1,0 +1,11 @@
+ErrorDocument 404 /404page.html
+ErrorDocument 500 /500.html
+
+# HTTPS Yönlendirmesi
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# www Yönlendirmesi
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301] 
